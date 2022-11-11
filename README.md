@@ -2,11 +2,10 @@
 
 
 ## Pre-Requirements
----
+
 1. [Python 3.9.7](https://www.python.org/downloads/release/python-379/)
 1. [CUDA Toolkit 11.8](https://developer.nvidia.com/cuda-downloads)
 ## Setup Project
----
 ### Step 0: Clone project file to local machine
 - Install [GitHub Desktop](https://desktop.github.com/)
 - In Github Desktop, click Clone Repository
